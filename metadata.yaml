@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '7521'
     url: http://www.gutenberg.org/2009/agents/7521
     wikipedia: https://fi.wikipedia.org/wiki/C._Edv._Törmänen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
     - https://fi.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65435#Konkurssi-Naytelma-neljassa-naytoksessa-viidessa-muutoksessa
 gutenberg_issued: '2021-05-24'
 gutenberg_type: Text
 identifiers:
